@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #fdc750;
+}
+.navbar-nav .nav-link {
+    color:#000 !important;
+    padding:15px !important;
+}
+.header-bg{
+    background-color: #fdc750;
+}
