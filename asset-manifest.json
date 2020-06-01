@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.17c47fdb.chunk.css",
-    "main.js": "/my-app/static/js/main.014c8e9a.chunk.js",
-    "main.js.map": "/my-app/static/js/main.014c8e9a.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.5119dbb0.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.5119dbb0.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/my-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.94f6f9c0.chunk.js": "/my-app/static/js/2.94f6f9c0.chunk.js",
-    "static/js/2.94f6f9c0.chunk.js.map": "/my-app/static/js/2.94f6f9c0.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.9632006f74a78d30fa736aef83067177.js": "/my-app/precache-manifest.9632006f74a78d30fa736aef83067177.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/my-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.17c47fdb.chunk.css.map": "/my-app/static/css/main.17c47fdb.chunk.css.map",
-    "static/js/2.94f6f9c0.chunk.js.LICENSE.txt": "/my-app/static/js/2.94f6f9c0.chunk.js.LICENSE.txt",
-    "static/media/corestack.png": "/my-app/static/media/corestack.e41d06f6.png",
-    "static/media/kendo.png": "/my-app/static/media/kendo.3bf68646.png",
-    "static/media/lynk.PNG": "/my-app/static/media/lynk.552d8406.PNG",
-    "static/media/merlin.png": "/my-app/static/media/merlin.e113b5a6.png",
-    "static/media/mine.jpg": "/my-app/static/media/mine.1dafc3f3.jpg",
-    "static/media/pc.PNG": "/my-app/static/media/pc.cca24d24.PNG"
+    "main.css": "/ReactMyProfile/static/css/main.17c47fdb.chunk.css",
+    "main.js": "/ReactMyProfile/static/js/main.ae4c931b.chunk.js",
+    "main.js.map": "/ReactMyProfile/static/js/main.ae4c931b.chunk.js.map",
+    "runtime-main.js": "/ReactMyProfile/static/js/runtime-main.218a4309.js",
+    "runtime-main.js.map": "/ReactMyProfile/static/js/runtime-main.218a4309.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/ReactMyProfile/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.94f6f9c0.chunk.js": "/ReactMyProfile/static/js/2.94f6f9c0.chunk.js",
+    "static/js/2.94f6f9c0.chunk.js.map": "/ReactMyProfile/static/js/2.94f6f9c0.chunk.js.map",
+    "index.html": "/ReactMyProfile/index.html",
+    "precache-manifest.f745750c56e95e931e46f07dea3f6c51.js": "/ReactMyProfile/precache-manifest.f745750c56e95e931e46f07dea3f6c51.js",
+    "service-worker.js": "/ReactMyProfile/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/ReactMyProfile/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.17c47fdb.chunk.css.map": "/ReactMyProfile/static/css/main.17c47fdb.chunk.css.map",
+    "static/js/2.94f6f9c0.chunk.js.LICENSE.txt": "/ReactMyProfile/static/js/2.94f6f9c0.chunk.js.LICENSE.txt",
+    "static/media/corestack.png": "/ReactMyProfile/static/media/corestack.e41d06f6.png",
+    "static/media/kendo.png": "/ReactMyProfile/static/media/kendo.3bf68646.png",
+    "static/media/lynk.PNG": "/ReactMyProfile/static/media/lynk.552d8406.PNG",
+    "static/media/merlin.png": "/ReactMyProfile/static/media/merlin.e113b5a6.png",
+    "static/media/mine.jpg": "/ReactMyProfile/static/media/mine.1dafc3f3.jpg",
+    "static/media/pc.PNG": "/ReactMyProfile/static/media/pc.cca24d24.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.5119dbb0.js",
+    "static/js/runtime-main.218a4309.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.94f6f9c0.chunk.js",
     "static/css/main.17c47fdb.chunk.css",
-    "static/js/main.014c8e9a.chunk.js"
+    "static/js/main.ae4c931b.chunk.js"
   ]
 }
