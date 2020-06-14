@@ -24,7 +24,7 @@ class Resume extends Component {
 									<span className="company">Agilysys - 2020 - Current</span>
 								</div>
 								<div className="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+
 								</div>
 							</div>
 						</li>
@@ -36,7 +36,7 @@ class Resume extends Component {
 									<span className="company">Cognizant Technolgy Associations - 2019 - 2020</span>
 								</div>
 								<div className="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									
 								</div>
 							</div>
 						</li>
@@ -48,7 +48,7 @@ class Resume extends Component {
 									<span className="company">Seaant Web Technologies - 2015 - 2018</span>
 								</div>
 								<div className="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									
 								</div>
 							</div>
 						</li>
@@ -65,7 +65,7 @@ class Resume extends Component {
 									<span className="company">Thangavelu Engineering College - 20010 - 2013</span>
 								</div>
 								<div className="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									
 								</div>
 							</div>
 						</li>
@@ -77,7 +77,7 @@ class Resume extends Component {
 									<span className="company">Arasan Ganesan Polytechnic College - 2008 - 2010</span>
 								</div>
 								<div className="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									
 								</div>
 							</div>
 						</li>
@@ -89,7 +89,7 @@ class Resume extends Component {
 									<span className="company">Govt. Hr. Sec School - 2006 - 2008</span>
 								</div>
 								<div className="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+
 								</div>
 							</div>
 						</li>						

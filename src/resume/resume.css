@@ -13,6 +13,9 @@
     left: 50%;
     margin-left: 0px;
 }
+.timeline-heading{
+    margin-top: 35px;
+}
 @media screen and (max-width: 378px) {
     .timeline:before {
         margin-left: -64px;
@@ -25,7 +28,7 @@
 }
 @media screen and (max-width: 378px) {
     .timeline .timeline-heading {
-        margin-bottom: 30px;
+        margin-bottom: 30px;        
    }
 }
 .timeline .timeline-heading > div h3 {

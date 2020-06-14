@@ -19,7 +19,7 @@ class Portfolio extends Component{
         {
             column: 4,
             image: lynk,
-            name: "corestack",
+            name: "Lynk",
             technologies: ["html5", "css3", "php"]
         },
         {
@@ -44,15 +44,17 @@ class Portfolio extends Component{
                 
         const projects = portfolio.map(function(item){
             return (
-                <div className={'col-'+ item.column}>
+                <div className="col-sm-4 col-md-6">
                 <div className="portfolio">
                                 <figure>
                                     <img src={item.image} alt={item.image} />
                                     <figcaption>
                                         <h5>{item.name}</h5>
                                         <ul className="list-group list-group-horizontal-sm">
-                                        {item.technologies.map((technologies, j) =>
-                                        <li key={j} className="list-group-item">{technologies}&nbsp;</li>
+                                        {item.technologies.map((technologies, index) =>
+                                        item.technologies.length-1 !== index ? 
+                                        <li key={index} className="list-group-item text-uppercase">{technologies},&nbsp;</li> :
+                                        <li key={index} className="list-group-item text-uppercase">{technologies}</li>
                                         )}                                            
                                         </ul>
                                     </figcaption>
@@ -74,6 +76,10 @@ class Portfolio extends Component{
                         </div>
                     </div>
                 </div>
+
+                {/* <div class="row">
+
+                </div> */}
             </section>
         );
     }

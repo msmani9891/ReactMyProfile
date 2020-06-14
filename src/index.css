@@ -1,3 +1,5 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -7,6 +9,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+.header-logoname {
+  display: inline;
+  position: relative;
+  left: -25px;
+  top: 20px;
+  color: #000;
+  /* font-family: 'Monoton', cursive; */
+  
+}
+.logofont {
+  font-family: 'Homemade Apple', cursive;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -77,4 +92,96 @@ h2.section-heading.dark{
 h2.section-heading{
   margin-bottom:100px
   ;
+}
+
+/* Media Queries for mobile  */
+
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 411px) and (max-width: 767px) {
+  
+  .timeline-heading .timeline-title{
+    font-size:18px;
+    text-align:left;
+  }
+  ul.timeline > li > .timeline-badge{
+    left:75px !important;
+  }
+  .company{
+    font-size:10px !important;
+    text-align: left !important;
+  }
+  .timeline-panel{
+    left:20px !important;
+    top:-10px;
+  }
+  .timeline .timeline-heading > div h3{
+    display: inline-block;
+    padding: 4px 10px !important;
+    font-size: 14px !important;
+    text-transform: uppercase;
+    letter-spacing: 3px !important;
+    font-weight: bold;
+    background: #fff;
+    border-radius: 4px;
+    margin-top: -60px !important;
+  }
+  .navbar-toggler{
+    display: none;
+  }
+  .navbar {
+    padding:0rem 0px .5rem 1rem !important;
+  }
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 410px) {
+  
+  .timeline-heading .timeline-title{
+    font-size:14px;
+    text-align:left;
+  }
+  ul.timeline > li > .timeline-badge{
+    left:12px !important;
+  }
+  .company{
+    font-size:10px !important;
+    text-align: left !important;
+  }
+  .timeline-panel{
+    left:20px !important;
+    top:-10px;
+  }
+  .timeline .timeline-heading > div h3{
+    display: inline-block;
+    padding: 4px 10px !important;
+    font-size: 14px !important;
+    text-transform: uppercase;
+    letter-spacing: 3px !important;
+    font-weight: bold;
+    background: #fff;
+    border-radius: 4px;
+    margin-top: -60px !important;
+  }
+  .navbar-toggler{
+    display: none;
+  }
+  .navbar {
+    padding:0rem 0px .5rem 1rem !important;
+  }
 }

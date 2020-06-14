@@ -23,7 +23,9 @@
     margin: 0 0.1em 0.1em 0;
     background-color: #cccccc;
 }
-
+.bar {
+  transition: transform 2s ease-in-out;
+}
 .c100 > span {
     position: absolute;
     width: 100%;

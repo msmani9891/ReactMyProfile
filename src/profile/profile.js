@@ -3,7 +3,7 @@ import "./profile.css";
 class Profile extends Component {
     render() {
         return(
-            <section id="profile" className="section-padding profile">
+            <section id="profile" ref={this.ProfileRef} className="section-padding profile">
                 <div className="container">
             <div className="row">
                 <div className="col-12 text-center">
